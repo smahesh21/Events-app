@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.event-card {
+  height: 15%;
+  width: 40%;
+}
+.image-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.image-url {
+  height: 25%;
+  width: 100%;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.location {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+}
